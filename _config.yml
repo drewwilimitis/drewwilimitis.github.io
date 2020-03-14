@@ -335,4 +335,4 @@ compress_html:
 sass:
   style:               compressed
 
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
