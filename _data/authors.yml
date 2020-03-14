@@ -27,7 +27,7 @@ author1:
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
     #twitter:         jekyllrb
-    github:          drewwilimitis
+    github:          <firstnamelastname>
     # download:        <url>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
@@ -76,8 +76,8 @@ author2:
 
     Open `_data/authors.yml` to edit this text.
   picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+  #twitter:          <>
+  github:            <drewwilimitis>
 
   # Every author can have his/her own accent color and image.
   # This will change the appearance of all pages of this author.
