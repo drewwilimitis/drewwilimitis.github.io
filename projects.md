@@ -1,3 +1,10 @@
+---
+title: Projects
+permalink: /projects
+layout: page
+excerpt: Catatan Public agar enggak usah pusing-pusing mengingat.
+comments: false
+---
 
 # Manifold Learning: Introduction and Foundational Algorithms
 ### *Mathematical Theory with Examples and Applications in Python*
