@@ -15,5 +15,6 @@ Hoping to contribute towards a greater mathematical understanding of complex soc
 
 - {{ site.author.email }}
 - github.com/{{ site.author.username }}
+
 <br>
-Note: this Jekyll-Klise theme is hosted at this [repository](http://github.com/piharpi/jekyll-klise/issues/new).
+Note: this Jekyll-Klise theme is hosted at this <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">repository</a>
