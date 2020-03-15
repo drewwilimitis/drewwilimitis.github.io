@@ -13,6 +13,7 @@ image: ""
 </figure>
 
 <br>
+<br>
 The kernel trick seems to be one of the most confusing concepts in statistics and machine learning; it first appears to be genuine mathematical sorcery, not to mention the problem of lexical ambiguity (does kernel refer to: a non-parametric way to estimate a probability density (statistics), the set of vectors v for which a linear transformation T maps to the zero vector?-?i.e. T(v) = 0 (linear algebra), the set of elements in a group G that are mapped to the identity element by a homomorphism between groups (group theory), the core of a computer operating system (computer science), or something to do with the seeds of nuts or fruit?).
 Although there are some obstacles to understanding the kernel trick, it is highly important to understand how kernels are used in support vector classification. For practical reasons, it is important to understand because implementing support vector classifiers requires specifying a kernel function, and there are not established, general rules to know what kernel will work best for your particular data.
 More conceptually, the kernel trick also illustrates some fundamental ideas about different ways to represent data and how machine learning algorithms "see" these different data representations. And finally, the seeming mathematical sleight of hand in the kernel trick just begs one to further explore what it actually means.<br>
