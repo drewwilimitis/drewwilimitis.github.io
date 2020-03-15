@@ -11,10 +11,12 @@ Data scientist working on personalized recommendation models and customer segmen
 Hoping to contribute towards a greater mathematical understanding of complex social systems from first principles, to test the limits of science and to both deepen our understanding and advance human wellbeing, to bridge the gaps between the natural and the social, and the theoretical and the applied.
 
 
-##### contact ✨
+##### contact/social ✨
 
-- {{ site.author.email }}
-- github.com/{{ site.author.username }}
+- email: drewwilimitis@gmail.com
+- github: https://github.com/drewwilimitis
+- linkedin: https://www.linkedin.com/in/drew-wilimitis/
+- medium blog: https://medium.com/@drewwilimitis
 
 <br>
 Note: this Jekyll-Klise theme is hosted at this <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">repository</a>
