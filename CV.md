@@ -7,14 +7,14 @@ Drew Wilimitis
 ============
 
 ----------------
-3718 N. Wilton Ave
-Chicago, IL
-
+3718 N. Wilton Ave <br>
+Chicago, IL 60613
 
 Education
 ---------
-**University of Chicago**; Chicago, IL, 2014-2018
-*B.S. Computational and Applied Mathematics*
+
+2014-2018 <br>
+**B.S. Computational and Applied Mathematics**, *University of Chicago**
 
 
 Experience
