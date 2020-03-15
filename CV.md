@@ -2,7 +2,6 @@
 layout: page
 title: CV
 ---
-
 # Drew Wilimitis
 3718 N. Wilton Ave <br>
 Chicago, IL 60613
