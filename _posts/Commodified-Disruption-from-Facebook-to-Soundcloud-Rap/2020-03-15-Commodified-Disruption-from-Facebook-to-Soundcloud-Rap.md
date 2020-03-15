@@ -35,7 +35,7 @@ It is not the case that Marx claims all labor has become abstract, or that the p
 
 ---
 
-![image tooltip here](/assets/img/lilxan.jpeg)
+![image tooltip here](/assets/img/lilxan.jpeg)<br>
 Lil Pump celebrating 1 million Instagram followers with a Xanax cake [2]
 
 <br>
