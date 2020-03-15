@@ -15,7 +15,8 @@ Education
 ---------
 **University of Chicago**; Chicago, IL, 2014-2018
 *B.S. Computational and Applied Mathematics*
-    
+
+
 Experience
 ----------
 
