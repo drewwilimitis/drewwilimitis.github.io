@@ -3,10 +3,9 @@
 
 ![KleinDual](https://user-images.githubusercontent.com/16658498/55211718-3e737900-51bb-11e9-8a4a-37ecf83c9ab0.gif)
 
-------
 
 Contents
-------
+___
 
 * [**Introduction:**](https://nbviewer.jupyter.org/github/drewwilimitis/Manifold-Learning/blob/master/Manifold_Learning_Intro.ipynb)
     - Overview of manifolds and the basic topology of data
