@@ -1,4 +1,4 @@
-# 1.) Manifold Learning: Introduction and Foundational Algorithms
+# Manifold Learning: Introduction and Foundational Algorithms
 ### *Mathematical Theory with Examples and Applications in Python*
 
 ![KleinDual](https://user-images.githubusercontent.com/16658498/55211718-3e737900-51bb-11e9-8a4a-37ecf83c9ab0.gif)
@@ -32,7 +32,7 @@ Contents
     
 -----
 
-# 2.) hyperbolic-learning
+# hyperbolic-learning
 
 **It has been recently established that many real-world networks have a latent geometric structure that resembles negatively curved hyperbolic spaces. Therefore, complex networks, and particularly the hierarchical relationships often found within, can often be more accurately represented by embedding graphs in hyperbolic geometry, rather than flat Euclidean space.**
 
