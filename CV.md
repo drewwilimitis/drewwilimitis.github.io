@@ -3,8 +3,7 @@ layout: page
 title: CV
 ---
 
-Drew Wilimitis
-============
+# Drew Wilimitis
 
 ----------------
 3718 N. Wilton Ave <br>
