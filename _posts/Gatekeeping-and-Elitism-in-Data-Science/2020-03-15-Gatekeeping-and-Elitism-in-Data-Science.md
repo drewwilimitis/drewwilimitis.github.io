@@ -1,9 +1,9 @@
 ---
 title: Gatekeeping and Elitism in Data Science
-date: 2020-03-15
-modified: 
-tags: 
-description: 
+date: 2020-01-25 11:58:47 +07:00
+modified: 2020-02-02 16:49:47 +07:00 
+tags: a
+description: a
 image: "/Gatekeeping-and-Elitism-in-Data-Science/gate.jpg"
 ---
 
