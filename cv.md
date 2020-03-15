@@ -36,7 +36,7 @@ Programmed a generalizable R script to synthesis and clean unstrunctured Electro
 
 Implemented an improved, scalable data mining algorithm to find association patterns and likely diagnoses in pharmaceutical orders
 
-Technical Experience
+Technical Skills
 --------------------
 
 Software/Programming : Python (numpy, pandas, sklearn, tensorflow), R (dplyr, tidyverse, ggplot2), SQL, C, MATLAB, git/version control
