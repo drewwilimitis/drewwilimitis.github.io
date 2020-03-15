@@ -14,8 +14,7 @@ Education
 ---------
 
 2014-2018 <br>
-**B.S. Computational and Applied Mathematics**, *University of Chicago**
-
+**B.S. Computational and Applied Mathematics**, *University of Chicago*
 
 Experience
 ----------
@@ -41,14 +40,12 @@ Programmed a generalizable R script to synthesis and clean unstrunctured Electro
 
 Implemented an improved, scalable data mining algorithm to find association patterns and likely diagnoses in pharmaceutical orders
 
-
 Technical Experience
 --------------------
 
 Software/Programming : Python (numpy, pandas, sklearn, tensorflow), R (dplyr, tidyverse, ggplot2), SQL, C, MATLAB, git/version control
 
 Cloud Computing: AWS (redshift, S3, EC2, SageMaker, lambda)
-
 
 Interests and Hobbies
 ----------------------------------------
