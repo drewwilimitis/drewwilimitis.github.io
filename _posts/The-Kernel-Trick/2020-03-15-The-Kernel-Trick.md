@@ -8,7 +8,7 @@ image: ""
 ---
 
 <figure>
-<img src="/The-Kernel-Trick/kernel_trick.png" alt="Kernel Trick">
+<img src="kernel_trick.png" alt="Kernel Trick">
 <figcaption>Fig 1. Example kernel transformation .</figcaption>
 </figure>
 
