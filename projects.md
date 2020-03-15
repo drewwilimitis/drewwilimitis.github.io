@@ -6,8 +6,10 @@ excerpt:
 comments: 
 ---
 
-# Manifold Learning: Introduction and Foundational Algorithms
-### *Mathematical Theory with Examples and Applications in Python*
+# Manifold Learning: Introduction and Foundational Algorithms in Python <br>
+After I was unable to find a thorough investigation of manifold learning methods, I decided to try and learn from a wide variety of sources and then attempt to synthesize an in-depth explanation of the core algorithms, along with their implementations within sklearn.manifold. <br>
+
+Note: the notebooks are best viewed through the jupyter nbviewer links below. [github](https://github.com/drewwilimitis/Manifold-Learning)
 
 ![KleinDual](https://user-images.githubusercontent.com/16658498/55211718-3e737900-51bb-11e9-8a4a-37ecf83c9ab0.gif)
 
@@ -50,6 +52,8 @@ comments:
 **The goal of this project is to provide Python implementations for a few recently published algorithms that leverage hyperbolic geometry for machine learning and network analysis. Several examples are given with real-world datasets, however; the time complexity is far from optimized and this repository is primarily for research purposes - specifically investigating how to integrate downstream supervised learning methods with hyperbolic embeddings.**
 
 ![IllinformedHalfAnemone-size_restricted](https://user-images.githubusercontent.com/16658498/67390992-564d8880-f563-11e9-95af-a959085e72c1.gif)
+
+Note: the notebooks are best viewed through the jupyter nbviewer links below. [github](https://github.com/drewwilimitis/hyperbolic-learning)
 
 ## Contents
 
