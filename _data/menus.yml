@@ -3,7 +3,7 @@
   external: false
   
 - title: projects
-  url: /projects/
+  url: /projects
   external: false
 
 - title: cv
