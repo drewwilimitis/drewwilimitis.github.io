@@ -30,6 +30,8 @@ ___
     - Spectral embedding with NLTK and the Brown text corpus
     
 -----
+-----
+<br>
 
 # hyperbolic-learning
 
@@ -46,17 +48,17 @@ ___
   - Mostly an exploration of the hyperbolic embedding approach used in __[1]__.
   - Available implementation in the `gensim` library and a PyTorch version released by the authors [here](https://github.com/facebookresearch/poincare-embeddings).
   
-* __Hyperbolic Multidimensional Scaling__:
+* __Hyperbolic Multidimensional Scaling__: [nbviewer](https://nbviewer.jupyter.org/github/drewwilimitis/hyperbolic-learning/blob/master/hyperbolic_mds/hyperbolic_mds_results.ipynb)
   - Finds embedding in Poincaré disk with hyperbolic distances that preserve input dissimilarities __[2]__.
   
-* __K-Means Clustering in the Hyperboloid Model__:
+* __K-Means Clustering in the Hyperboloid Model__: [nbviewer](https://nbviewer.jupyter.org/github/drewwilimitis/hyperbolic-learning/blob/master/hyperbolic_kmeans/hyperbolic_kmeans_results.ipynb)
   - Optimization approach using Frechet means to define a centroid/center of mass in hyperbolic space __[3, 4]__.
 
 
   ![mammals_kmeans](https://user-images.githubusercontent.com/16658498/69854762-7f8ec200-124f-11ea-9cab-719efc965aa2.png)
 
   
-* __Hyperbolic Support Vector Machine__ - 
+* __Hyperbolic Support Vector Machine__ - [nbviewer](https://nbviewer.jupyter.org/github/drewwilimitis/hyperbolic-learning/blob/master/hyperbolic_svm/hyperbolic_svm_results.ipynb)
   - Linear hyperbolic SVC based on the max-margin optimization problem in hyperbolic geometry __[5]__.
   - Uses projected gradient descent to define decision boundary and predict classifications.
 
@@ -64,7 +66,7 @@ ___
 ![hsvm_decision_boundaries](https://user-images.githubusercontent.com/16658498/69854243-39852e80-124e-11ea-97aa-d8d34ba107d8.png)
 
   
-* __Embedding Graphs in Lorentzian Spacetime__ -  
+* __Embedding Graphs in Lorentzian Spacetime__ -  [nbviewer](https://nbviewer.jupyter.org/github/drewwilimitis/hyperbolic-learning/blob/master/spacetime_graph_embeddings/spacetime_embedding_results.ipynb)
   - An algorithm based on notions of causality in the Minkowski spacetime formulation of special relativity __[6]__.
   - Used to embed directed acyclic graphs where nodes are represented by space-like and time-like coordinates. 
 
@@ -84,11 +86,11 @@ ___
 
 ### References
 
-__[1]__ Nickel, Kiela. "Poincaré embeddings for learning hierarchical representations" (2017). [arXiv](https://arxiv.org/pdf/1705.08039.pdf).
-__[2]__ A. Cvetkovski and M. Crovella. Multidimensional scaling in the Poincaré disk. arXiv:1105.5332, 2011.
-__[3]__ "Learning graph-structured data using Poincaré embeddings and Riemannian K-means algorithms". Hatem Hajri, Hadi Zaatiti, Georges Hebrail (2019) [arXiv](https://arxiv.org/abs/1907.01662).
-__[4]__ Wilson, Benjamin R. and Matthias Leimeister. “Gradient descent in hyperbolic space.” (2018).
-__[5]__ "Large-margin classification in hyperbolic space". Cho, H., Demeo, B., Peng, J., Berger, B. CoRR abs/1806.00437 (2018).
+__[1]__ Nickel, Kiela. "Poincaré embeddings for learning hierarchical representations" (2017). [arXiv](https://arxiv.org/pdf/1705.08039.pdf).<br>
+__[2]__ A. Cvetkovski and M. Crovella. Multidimensional scaling in the Poincaré disk. arXiv:1105.5332, 2011.<br>
+__[3]__ "Learning graph-structured data using Poincaré embeddings and Riemannian K-means algorithms". Hatem Hajri, Hadi Zaatiti, Georges Hebrail (2019) [arXiv](https://arxiv.org/abs/1907.01662).<br>
+__[4]__ Wilson, Benjamin R. and Matthias Leimeister. “Gradient descent in hyperbolic space.” (2018).<br>
+__[5]__ "Large-margin classification in hyperbolic space". Cho, H., Demeo, B., Peng, J., Berger, B. CoRR abs/1806.00437 (2018).<br>
 __[6]__ Clough JR, Evans TS (2017) Embedding graphs in Lorentzian spacetime. PLoS ONE 12(11):e0187301. https://doi.org/10.1371/journal.pone.0187301.
 
 -----
