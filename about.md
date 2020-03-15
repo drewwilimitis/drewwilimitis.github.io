@@ -11,9 +11,9 @@ Data scientist working on personalized recommendation models and customer segmen
 Hoping to contribute towards a greater mathematical understanding of complex social systems from first principles, to test the limits of science and to both deepen our understanding and advance human wellbeing, to bridge the gap between the natural and the social, the theoretical and the applied, and the intellectual and the ethical.
 
 
-Note: this Jekyll-Klise theme is hosted at this [repository](http://github.com/piharpi/jekyll-klise/issues/new).
-
 ##### contact ✨
 
 - {{ site.author.email }}
 - github.com/{{ site.author.username }}
+<br>
+Note: this Jekyll-Klise theme is hosted at this [repository](http://github.com/piharpi/jekyll-klise/issues/new).
