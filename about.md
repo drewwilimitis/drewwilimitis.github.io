@@ -1,18 +1,17 @@
 ---
-title: Colophon
+title: about
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: 
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Data scientist working on personalized recommendation models and customer segmentation, with lifelong interests in philosophy and mathematics. Intrigued by the applications of quantitative methods within the social and psychological sciences, and closely following related research in network geometry, topological data analysis, and machine learning under non-Euclidean frameworks. Hoping to contribute towards a greater mathematical understanding of complex social systems from first principles, to test the limits of science and to both deepen our understanding and advance human wellbeing, to bridge the gap between the natural and the social, the theoretical and the applied, and the intellectual and the ethical.
 
-If you have a question about him or else, just send a letter to him.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Note: this Jekyll-Klise theme is hosted at this [repository](http://github.com/piharpi/jekyll-klise/issues/new).
 
-##### may u needs ✨
+##### contact ✨
 
 - {{ site.author.email }}
 - github.com/{{ site.author.username }}
