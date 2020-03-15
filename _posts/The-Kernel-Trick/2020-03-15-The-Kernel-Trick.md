@@ -8,14 +8,9 @@ image: "/The-Kernel-Trick/kernel_trick2.png"
 ---
 
 <figure>
-<img src="/The-Kernel-Trick/kernel_trick2.png" alt="Kernel Trick">
-<figcaption>Fig 1. Example kernel transformation .</figcaption>
+<img src="The-Kernel-Trick/kernel_trick2.png" alt="Kernel Trick">
+<figcaption> Fig 1. Example kernel transformation. </figcaption>
 </figure>
-
-<br>
-<br>
-
-<a href=https://github.com/drewwilimitis/drewwilimitis.github.io/blob/master/_posts/The-Kernel-Trick/kernel_trick2.png target="_blank" rel="noopener">kernel function</a>.
 
 <br>
 <br>
