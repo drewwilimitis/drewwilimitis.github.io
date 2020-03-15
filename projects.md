@@ -1,6 +1,6 @@
 ---
 title: Projects
-permalink: /projects
+permalink: /projects/
 layout: page
 excerpt: Catatan Public agar enggak usah pusing-pusing mengingat.
 comments: false
