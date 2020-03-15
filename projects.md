@@ -1,11 +1,12 @@
+
 # Manifold Learning: Introduction and Foundational Algorithms
 ### *Mathematical Theory with Examples and Applications in Python*
 
 ![KleinDual](https://user-images.githubusercontent.com/16658498/55211718-3e737900-51bb-11e9-8a4a-37ecf83c9ab0.gif)
 
 
-Contents
-___
+## Contents
+
 
 * [**Introduction:**](https://nbviewer.jupyter.org/github/drewwilimitis/Manifold-Learning/blob/master/Manifold_Learning_Intro.ipynb)
     - Overview of manifolds and the basic topology of data
@@ -28,7 +29,9 @@ ___
     - From the general to the discrete Laplacian operators
     - Visualizing spectral embedding with the networkx library
     - Spectral embedding with NLTK and the Brown text corpus
-    
+
+<br>
+
 -----
 -----
 <br>
