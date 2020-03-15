@@ -1,7 +1,12 @@
+---
+title: Commodified Disruption: from Facebook to Soundcloud Rap
+date: 2020-01-25 11:58:47 +07:00
+modified: 2020-02-02 16:49:47 +07:00 
+tags: writing
+description: 
+image: 
+---
 
-
-# Commodified Disruption: From Facebook to SoundCloud Rap
-<br>
 Until 2014, Facebook embraced the motto "Move fast and break things", succinctly capturing Silicon Valley's endorsement of technological disruption. While not as concise and explicitly stated, it's not hard to find a similar punk ethos behind the phenomenon of SoundCloud rap, with its collective appearance and attitude that is aggressively countercultural, often to the point of self-caricature, and with its lyrical content that wavers between genuine emotional catharsis and performed pre-teen apathy, often to the point of self-indulgence. If you juxtapose the image of Mark Zuckerburg appearing strangely robotic before the US Senate with some combination of rapper 'Lil'-x with haircolor-y and a face tattoo of object-z, the comparison starts to fade. However, with a few more adjacent examples, a pattern starts to emerge. Let's also throw in Banksy, the anonymous street artist whose work is often provocative and critical of consumer culture, and let's also consider the popularization of mindfulness meditation and its adoption by the productivity and lifehack movement.
 A theme starts to become clear: these are all examples of social and cultural phenomena that profess to be fundamentally "disruptive". In one way or another, these movements are driven by an attempt to challenge the essential nature of the modern capitalist structure through which they have come to exist. However, in each instance, the attempted resistance has been co-opted by this very capitalist system in a way that ultimately reinforces this existing socio-economic framework. I argue that this ability to subsume and instrumentalize systemic resistance demonstrates an essential feature of capitalism?-?it evolves and solidifies in response to opposition; it is antifragile.
 Along with every second-year undergraduate at a liberal arts college, I too can attest that, when read critically, Marx's critique of capitalism can really change your life, man. Capitalism is one of those few topics that manages to almost entirely elude productive discourse and definitional clarity, despite the enormously disproportionate need to talk about it. It feels almost like writing about God in the that the danger of the conversation going wildly off the rails looms large with each passing mention of such a loaded word. For the sake of this analysis, I will focus primarily on two related aspects of capitalism: abstract labor and the commodity form.
