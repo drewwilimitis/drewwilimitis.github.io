@@ -1,12 +1,9 @@
 ---
 layout: page
 title: CV
-
 ---
-
 Drew Wilimitis
 ============
-
 ----------------
 3718 N. Wilton Ave
 Chicago, IL
@@ -16,18 +13,13 @@ Education
 
 2014-2018
 :   **University of Chicago**; Chicago, IL
-
     *B.S. Computational and Applied Mathematics*
-
-
 Experience
 ----------
 
 **Data Analyst at Hyatt Hotels Corporation**
 
-Automated mobile text data collection and cleaning with Python REST API libraries (urllib, requests)
-
-Built an analytical dashboard application (using Dash) to visualize and streamline ad-hoc analytics reporting 
+Automated mobile text data collection and cleaning (urllib, requests), as well as ad-hoc reporting with a Dash app 
 
 Trained and deployed production quality machine learning models using scikit-learn and AWS, including:
 
@@ -43,8 +35,6 @@ Created 50+ educational videos for undergraduate courses in Applied Statistics, 
 Programmed a generalizable R script to synthesis and clean unstrunctured Electronic Health Record data
 
 Implemented an improved, scalable data mining algorithm to find association patterns and likely diagnoses in pharmaceutical orders
-
-<br>
 
 Technical Experience
 --------------------
