@@ -20,7 +20,7 @@ Education
 Experience
 ----------
 
-**Data Analyst at Hyatt Hotels Corporation, November 2018 - Present**
+**Data Analyst at Hyatt Hotels Corporation (November 2018 - Present)**
 
 Automated mobile text data collection and cleaning (urllib, requests), as well as ad-hoc reporting with a Dash app 
 
@@ -30,12 +30,12 @@ Trained and deployed production quality machine learning models using scikit-lea
 * Personalized add-on amenity recommendation model, used for targeted marketing and customer segmentation efforts
 
 
-**Undergraduate Math & Statistics Tutor at Chegg, June 2018 - December 2018**
+**Undergraduate Math & Statistics Tutor at Chegg (June 2018 - December 2018)**
 
 Created 50+ educational videos for courses in Applied Statistics, Probability, and Linear Algebra/Differential Equations.
 
 
-**Data Analyst Intern at Lumere, May 2017 - January 2018**
+**Data Analyst Intern at Lumere (May 2017 - January 2018)**
 
 Programmed a generalizable R script to synthesis and clean unstrunctured Electronic Health Record data
 
