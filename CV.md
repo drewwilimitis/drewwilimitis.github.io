@@ -1,12 +1,16 @@
 ---
 layout: page
 title: CV
+
 ---
+
 Drew Wilimitis
 ============
+
 ----------------
 3718 N. Wilton Ave
 Chicago, IL
+
 
 Education
 ---------
@@ -14,6 +18,7 @@ Education
 2014-2018
 :   **University of Chicago**; Chicago, IL
     *B.S. Computational and Applied Mathematics*
+    
 Experience
 ----------
 
