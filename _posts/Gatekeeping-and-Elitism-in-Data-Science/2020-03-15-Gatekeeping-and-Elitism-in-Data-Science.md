@@ -7,10 +7,7 @@ description: a
 image: "/Gatekeeping-and-Elitism-in-Data-Science/gate.jpg"
 ---
 
-<figure>
-<img src="_posts/Gatekeeping-and-Elitism-in-Data-Science/gate.jpg" alt="Gatekeeping">
-<figcaption>Fig 2.</figcaption>
-</figure>
+![image tooltip here](/assets/img/gate.jpg)
 
 If I'm being honest, I often feel like I need to show that I'm better than other people. I can be especially egotistical when it comes to things that I have built my identity around, things that I take a lot of pride in, things that provide me with a sense of self-worth, however shallow it may be. So when I encounter elitism and snobbish, intellectual gatekeeping in the field of data science, I totally get it.<br>
 <br>
