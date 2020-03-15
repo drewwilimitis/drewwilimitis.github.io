@@ -25,7 +25,8 @@ I will certainly not be able to fully explain the kernel trick in this post. I b
 ---
 ### Intro to Support Vector Classification
 
-Support vector classification is based on a very natural way that one might attempt to classify data points into various target classes. If the classes in our training data can be separated by a line or some boundary, then we can just classify the data depending on what side of this decision boundary the data lies on.
+Support vector classification is based on a very natural way that one might attempt to classify data points into various target classes. If the classes in our training data can be separated by a line or some boundary, then we can just classify the data depending on what side of this decision boundary the data lies on.<br>
+<br>
 In the following 2-d example, we can separate the data with any of the three lines, and then just assign classes based on whether the observation lies above or below the line. The data are 2-dimensional vectors specified by the features X1 and X2 with class labels as either y =1 (blue) or y = 0 (red).<br>
 
 ![image tooltip here](/assets/img/kernel1.png)<br>
@@ -96,7 +97,8 @@ In kernel methods, the data set X is represented by an n x n kernel matrix of pa
 ![image tooltip here](/assets/img/kernel9.png)<br>
 
 Our kernel function accepts inputs in the original lower dimensional space and returns the dot product of the transformed vectors in the higher dimensional space. There are also theorems which guarantee the existence of such kernel functions under certain conditions.
-It can somewhat help to understand how the kernel function is equal to the dot product of the transformed vectors by considering that each coordinate of the transformed vector $\phi (x)$(x) is just some function of the coordinates in the corresponding lower dimensional vector x.
+It can somewhat help to understand how the kernel function is equal to the dot product of the transformed vectors by considering that each coordinate of the transformed vector $\phi (x)$(x) is just some function of the coordinates in the corresponding lower dimensional vector x.<br>
+<br>
 For example, the kernel trick for the 2nd-degree polynomial is illustrated below, and we visualized this transformation in 3-d in a previous figure. The transformed vectors have coordinates that are functions of the two components x1 and x2. so the dot product will only involve components x1 and x2 as well. The kernel function will also take inputs x1, x2 and return a real number. The dot product always returns a real number too.<br>
 <br>
 ![image tooltip here](/assets/img/kernel10.png)<br>
