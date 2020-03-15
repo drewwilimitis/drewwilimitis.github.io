@@ -1,6 +1,12 @@
-# Gatekeeping and Elitism in Data Science <br>
+---
+title: Gatekeeping and Elitism in Data Science
+date: 
+modified: 
+tags: 
+description: 
+image: "/Gatekeeping-and-Elitism-in-Data-Science/gate.jpg"
+---
 
-Photo by Court Prather on Unsplash<br>
 
 If I'm being honest, I often feel like I need to show that I'm better than other people. I can be especially egotistical when it comes to things that I have built my identity around, things that I take a lot of pride in, things that provide me with a sense of self-worth, however shallow it may be. So when I encounter elitism and snobbish, intellectual gatekeeping in the field of data science, I totally get it.
 When I hear people who spend most of their time working in Microsoft Excel, who have very little knowledge of math or statistics, refer to their work as data science or analytics, I often feel a sense of anger. When I see someone asking an online forum "Is understanding statistics really necessary for data science?" or "I'm trying to make the transition from a social media manager to data scientist, where's the best place to start learning linear algebra?", I sometimes feel personally offended. Hell, even when people are comfortable with naively running svm.fit() and svm.predict() on real datasets without attempting to understand the theoretical nuances of convex optimization, my insecurities can force me to scoff as if I was a French aristocratic woman being asked to the ball by a peasant farmer.
