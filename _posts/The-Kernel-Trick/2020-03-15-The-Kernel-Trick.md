@@ -1,10 +1,10 @@
 ---
 title: The Kernel Trick in Support Vector Classification
-date: 
-modified: 
+date: 2020-01-25 11:58:47 +07:00
+modified: 2020-02-02 16:49:47 +07:00 
 tags: 
 description: 
-image:
+image: ""
 ---
 
 # The Kernel Trick in Support Vector Classification
