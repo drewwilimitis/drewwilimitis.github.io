@@ -8,7 +8,7 @@ image: "/Gatekeeping-and-Elitism-in-Data-Science/gate.jpg"
 ---
 
 <figure>
-<img src="/Gatekeeping-and-Elitism-in-Data-Science/gate.jpg" alt="Gatekeeping">
+<img src="_posts/Gatekeeping-and-Elitism-in-Data-Science/gate.jpg" alt="Gatekeeping">
 <figcaption>Fig 2.</figcaption>
 </figure>
 
@@ -18,8 +18,11 @@ When I hear people who spend most of their time working in Microsoft Excel, who 
 <br>
 Of course, reacting in this way is childish and narcissistic. Attempting to discourage aspiring learners and to assume some false sense of superiority or moral high ground is not only immature and selfish. By not actively encouraging others to engage with the data science field and by not praising the expanding access to online educational resources, one becomes a detriment to the progression of the data science field. The most important contribution many people can make to human knowledge is to inspire and encourage others.
 Acting as the gatekeeper of data science is a betrayal to intellectual curiosity and an affront to the new paradigms of accessible knowledge, technological disruption, and the democratic nature of data and empirical evidence.
+<br>
+<br>
 On the other hand, I also believe that there is a way in which this gatekeeping instinct is at least a partially valid reaction. Although ego and famine thinking - the perception that there is only a fixed amount of opportunities in data science and so the success of one is a harm to another - can account for a great deal of these reactions, I do believe there's something else at play here.
-Before attempting to provide a charitable understanding of this elitist, exclusionary mindset, I'd like to clarify what I mean by gatekeeping in data science. The gatekeeping that I'm referring to often takes the form of established data scientists and other "insiders" attempting to dissuade or discourage people (often those from unconventional or non-technical academic and occupational backgrounds) from pursuing their sacred field. A similar elitist vein runs through many attempts to sharply distinguish "real data scientists" from the fakes, to clarify that "business/reporting analysts" aren't really doing analytics, or to claim that one "must have a graduate degree in a STEM field" to be a worthwhile data scientist.
+Before attempting to provide a charitable understanding of this elitist, exclusionary mindset, I'd like to clarify what I mean by gatekeeping in data science. The gatekeeping that I'm referring to often takes the form of established data scientists and other "insiders" attempting to dissuade or discourage people (often those from unconventional or non-technical academic and occupational backgrounds) from pursuing their sacred field. A similar elitist vein runs through many attempts to sharply distinguish "real data scientists" from the fakes, to clarify that "business/reporting analysts" aren't really doing analytics, or to claim that one "must have a graduate degree in a STEM field" to be a worthwhile data scientist.<br>
+<br>
 I'd now like to turn to a few reasons that we should empathize with the gatekeepers. To understand their point of view, we need to take a critical look at some of these issues. In the end, this leads to a greater understanding of the need to encourage a diverse group of people from many different backgrounds to collaborate, form communities, and pursue a variety of opportunities in all things data science.
 
 
