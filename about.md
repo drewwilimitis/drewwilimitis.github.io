@@ -14,9 +14,9 @@ Hoping to contribute towards a greater mathematical understanding of complex soc
 ##### contact/social ✨
 
 - email: drewwilimitis@gmail.com
-- github: https://github.com/drewwilimitis
-- linkedin: https://www.linkedin.com/in/drew-wilimitis/
-- medium blog: https://medium.com/@drewwilimitis
+- github: [github.com/drewwilimitis](https://medium.com/@drewwilimitis)
+- linkedin: [linkedin.com/in/drew-wilimitis/](https://www.linkedin.com/in/drew-wilimitis/)
+- medium blog: [medium.com/@drewwilimitis](https://medium.com/@drewwilimitis)
 
 <br>
 Note: this Jekyll-Klise theme is hosted at this <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">repository</a>
