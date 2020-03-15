@@ -4,7 +4,7 @@ date:
 modified: 
 tags: 
 description: 
-image: "/The-Kernel-Trick/gate.jpg"
+image:
 ---
 
 # The Kernel Trick in Support Vector Classification
