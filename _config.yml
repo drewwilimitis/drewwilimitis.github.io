@@ -13,7 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Drew Wilimitis
   bio: >-
-    <a href="https://github.com/drewwilimitis" target="_blank" rel="noopener">@github.com/drewwilimitis</a>.
+    data scientist, empiricist, manifold enthusiast, late-stage capitalism participant  
   username: drewwilimitis
   email: drewwilimitis@gmail.com
   avatar: /assets/img/avatar.jpg
