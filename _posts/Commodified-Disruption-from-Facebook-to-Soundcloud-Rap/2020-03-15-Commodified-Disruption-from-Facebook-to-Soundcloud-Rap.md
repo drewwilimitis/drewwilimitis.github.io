@@ -1,5 +1,5 @@
 ---
-title: Commodified Disruption: from Facebook to Soundcloud Rap
+title: Commodified Disruption from Facebook to Soundcloud Rap
 date: 2020-01-25 11:58:47 +07:00
 modified: 2020-02-02 16:49:47 +07:00 
 tags: writing
