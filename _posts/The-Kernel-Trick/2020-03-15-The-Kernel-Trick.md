@@ -4,11 +4,11 @@ date: 2020-01-25 11:58:47 +07:00
 modified: 2020-02-02 16:49:47 +07:00 
 tags: 
 description: 
-image: "/The-Kernel-Trick/kernel_trick.png"
+image: "/The-Kernel-Trick/kernel_trick2.png"
 ---
 
 <figure>
-<img src="/The-Kernel-Trick/kernel_trick.png" alt="Kernel Trick">
+<img src="/The-Kernel-Trick/kernel_trick2.png" alt="Kernel Trick">
 <figcaption>Fig 1. Example kernel transformation .</figcaption>
 </figure>
 
