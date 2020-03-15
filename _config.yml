@@ -13,7 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Drew Wilimitis
   bio: >-
-    data scientist, empiricist, manifold enthusiast, late-stage capitalism participant  
+    data scientist, late-stage capitalism participant  
   username: drewwilimitis
   email: drewwilimitis@gmail.com
   avatar: /assets/img/avatar.jpg
