@@ -21,7 +21,7 @@ Automated mobile text data collection and cleaning (urllib, requests), as well a
 
 Trained and deployed production quality machine learning models using scikit-learn and AWS, including:
 
-* Room upgrade model utilized daily at 400 Hyatt properties (featured by [AWS](https://aws.amazon.com/travel-and-hospitality/personalization/)
+* Room upgrade model utilized daily at 400 Hyatt properties (featured by [AWS](https://aws.amazon.com/travel-and-hospitality/personalization/))
 * Personalized add-on amenity recommendation model, used for targeted marketing and customer segmentation efforts
 
 
