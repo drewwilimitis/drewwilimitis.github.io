@@ -1,7 +1,6 @@
 ---
 layout: page
 title: CV
-
 ---
 
 Drew Wilimitis
@@ -14,10 +13,8 @@ Chicago, IL
 
 Education
 ---------
-
-2014-2018
-:   **University of Chicago**; Chicago, IL
-    *B.S. Computational and Applied Mathematics*
+**University of Chicago**; Chicago, IL, 2014-2018
+*B.S. Computational and Applied Mathematics*
     
 Experience
 ----------
