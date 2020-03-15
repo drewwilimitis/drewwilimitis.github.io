@@ -4,7 +4,7 @@ date: 2020-01-25 11:58:47 +07:00
 modified: 2020-02-02 16:49:47 +07:00 
 tags: 
 description: 
-image: ""
+image: "kernel_trick.png"
 ---
 
 <figure>
@@ -29,8 +29,11 @@ I will certainly not be able to fully explain the kernel trick in this post. I b
 
 Support vector classification is based on a very natural way that one might attempt to classify data points into various target classes. If the classes in our training data can be separated by a line or some boundary, then we can just classify the data depending on what side of this decision boundary the data lies on.
 In the following 2-d example, we can separate the data with any of the three lines, and then just assign classes based on whether the observation lies above or below the line. The data are 2-dimensional vectors specified by the features X1 and X2 with class labels as either y =1 (blue) or y = 0 (red).
-An example dataset showing classes that can be linearly separated.Training a linear support vector classifier, like nearly every problem in machine learning, and in life, is an optimization problem. We maximize the margin?-?the distance separating the closest pair of data points belonging to opposite classes. These points are called the support vectors, because they are the data observations that "support", or determine, the decision boundary. To train a support vector classifier, we find the maximal margin hyperplane, or optimal separating hyperplane, which optimally separates the two classes in order to generalize to new data and make accurate classification predictions.
-The support vectors are the points on the dashed lines. The distance from the dashed line to the solid line is the margin, represented by the arrows.Support vector machines are much harder to interpret in higher dimensions. It is much harder to visualize how the data can be linearly separable, and what the decision boundary will look like. A hyperplane in p-dimensions is a p-1 dimensional "flat" subspace that lies inside the larger p-dimensional space. In 2 dimensions, the hyperplane is just a line. In 3 dimensions, the hyperplane is a regular 2-d plane. Mathematically, we have the following:
+An example dataset showing classes that can be linearly separated.<br>
+<br>
+Training a linear support vector classifier, like nearly every problem in machine learning, and in life, is an optimization problem. We maximize the margin?-?the distance separating the closest pair of data points belonging to opposite classes. These points are called the support vectors, because they are the data observations that "support", or determine, the decision boundary. To train a support vector classifier, we find the maximal margin hyperplane, or optimal separating hyperplane, which optimally separates the two classes in order to generalize to new data and make accurate classification predictions.
+The support vectors are the points on the dashed lines. The distance from the dashed line to the solid line is the margin, represented by the arrows.Support vector machines are much harder to interpret in higher dimensions. It is much harder to visualize how the data can be linearly separable, and what the decision boundary will look like. A hyperplane in p-dimensions is a p-1 dimensional "flat" subspace that lies inside the larger p-dimensional space. In 2 dimensions, the hyperplane is just a line. In 3 dimensions, the hyperplane is a regular 2-d plane. Mathematically, we have the following:<br>
+<br>
 Equations defining a hyperplane and the classification rules defined by the decision boundary.Support vector classification relies on this notion of linearly separable data. "Soft margin" classification can accommodate some classification errors on the training data, in the case where data is not perfectly linearly separable. However, in practice data is often very far from being linearly separable, and we need to transform the data into a higher dimensional space in order to fit a support vector classifier.
 
 
