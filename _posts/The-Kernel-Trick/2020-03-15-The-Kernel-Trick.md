@@ -97,7 +97,7 @@ In kernel methods, the data set X is represented by an n x n kernel matrix of pa
 ![image tooltip here](/assets/img/kernel9.png)<br>
 
 Our kernel function accepts inputs in the original lower dimensional space and returns the dot product of the transformed vectors in the higher dimensional space. There are also theorems which guarantee the existence of such kernel functions under certain conditions.
-It can somewhat help to understand how the kernel function is equal to the dot product of the transformed vectors by considering that each coordinate of the transformed vector $\phi (x)$(x) is just some function of the coordinates in the corresponding lower dimensional vector x.<br>
+It can somewhat help to understand how the kernel function is equal to the dot product of the transformed vectors by considering that each coordinate of the transformed vector $\phi (x)$ is just some function of the coordinates in the corresponding lower dimensional vector x.<br>
 <br>
 For example, the kernel trick for the 2nd-degree polynomial is illustrated below, and we visualized this transformation in 3-d in a previous figure. The transformed vectors have coordinates that are functions of the two components x1 and x2. so the dot product will only involve components x1 and x2 as well. The kernel function will also take inputs x1, x2 and return a real number. The dot product always returns a real number too.<br>
 <br>
