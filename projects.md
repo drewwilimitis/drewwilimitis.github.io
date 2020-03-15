@@ -2,8 +2,8 @@
 title: Projects
 permalink: /projects/
 layout: page
-excerpt: Catatan Public agar enggak usah pusing-pusing mengingat.
-comments: false
+excerpt: 
+comments: 
 ---
 
 # Manifold Learning: Introduction and Foundational Algorithms
