@@ -3,8 +3,8 @@ title: Commodified Disruption: from Facebook to Soundcloud Rap
 date: 2020-01-25 11:58:47 +07:00
 modified: 2020-02-02 16:49:47 +07:00 
 tags: writing
-description: 
-image: 
+description: a
+image: ""
 ---
 
 Until 2014, Facebook embraced the motto "Move fast and break things", succinctly capturing Silicon Valley's endorsement of technological disruption. While not as concise and explicitly stated, it's not hard to find a similar punk ethos behind the phenomenon of SoundCloud rap, with its collective appearance and attitude that is aggressively countercultural, often to the point of self-caricature, and with its lyrical content that wavers between genuine emotional catharsis and performed pre-teen apathy, often to the point of self-indulgence. If you juxtapose the image of Mark Zuckerburg appearing strangely robotic before the US Senate with some combination of rapper 'Lil'-x with haircolor-y and a face tattoo of object-z, the comparison starts to fade. However, with a few more adjacent examples, a pattern starts to emerge. Let's also throw in Banksy, the anonymous street artist whose work is often provocative and critical of consumer culture, and let's also consider the popularization of mindfulness meditation and its adoption by the productivity and lifehack movement.
