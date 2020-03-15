@@ -13,6 +13,10 @@
 - title: cv
   url: /cv
   external: false
+  
+- title: about
+  url: /about
+  external: false
 
 # Example:
 # - title: github
