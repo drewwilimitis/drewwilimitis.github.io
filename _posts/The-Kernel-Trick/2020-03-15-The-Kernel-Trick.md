@@ -15,7 +15,7 @@ image: "/The-Kernel-Trick/kernel_trick2.png"
 <br>
 <br>
 
-<a href="https://github.com/drewwilimitis/drewwilimitis.github.io/blob/master/_posts/The-Kernel-Trick/kernel_trick2.png" target="_blank" rel="noopener">kernel function</a>.
+<a href=https://github.com/drewwilimitis/drewwilimitis.github.io/blob/master/_posts/The-Kernel-Trick/kernel_trick2.png target="_blank" rel="noopener">kernel function</a>.
 
 <br>
 <br>
