@@ -7,6 +7,9 @@ description: a
 image: ""
 ---
 
+![image tooltip here](/assets/img/markzuck.png)
+
+
 Until 2014, Facebook embraced the motto "Move fast and break things", succinctly capturing Silicon Valley's endorsement of technological disruption. While not as concise and explicitly stated, it's not hard to find a similar punk ethos behind the phenomenon of SoundCloud rap, with its collective appearance and attitude that is aggressively countercultural, often to the point of self-caricature, and with its lyrical content that wavers between genuine emotional catharsis and performed pre-teen apathy, often to the point of self-indulgence. If you juxtapose the image of Mark Zuckerburg appearing strangely robotic before the US Senate with some combination of rapper 'Lil'-x with haircolor-y and a face tattoo of object-z, the comparison starts to fade. <br>
 <br>
 However, with a few more adjacent examples, a pattern starts to emerge. Let's also throw in Banksy, the anonymous street artist whose work is often provocative and critical of consumer culture, and let's also consider the popularization of mindfulness meditation and its adoption by the productivity and lifehack movement.<br>
@@ -32,7 +35,11 @@ It is not the case that Marx claims all labor has become abstract, or that the p
 
 ---
 
-Lil Pump celebrating 1 million Instagram followers with a Xanax cake [2]We can now turn to an analysis of some of these modern social phenomena along these two fundamental axes of the capitalist paradigm. In an article titled "The Rowdy World of Rap's Underground" , John Caramanica described SoundCloud rap as "a swelling subgenre that takes its name from its creators' preferred streaming service?-?which in the last year has become the most vital and disruptive new movement in hip-hop thanks to rebellious music, volcanic energy and occasional acts of malevolence". SoundCloud rappers like Lil Peep, XXXTentacion, Tekashi69, and Lil Pump have all been incredibly talented at using streaming platforms and social media to increase their popularity, often embracing the cartoonish images, memes, and over-exaggerations they become in a kind of self-aware, absurdist comedy. As evidence, look no further than Lil Peep's face tattoo of the word "crybaby", the self-fulfilling prophecy that led Tekashi69 to rise and fall like the classic gangster anti-hero he pretended to be, or Smokepurpp's remark that "When people laugh at us, we laugh with them; we know it's funny". [1]<br>
+![image tooltip here](/assets/img/lilxan.jpeg)
+Lil Pump celebrating 1 million Instagram followers with a Xanax cake [2]
+
+<br>
+We can now turn to an analysis of some of these modern social phenomena along these two fundamental axes of the capitalist paradigm. In an article titled "The Rowdy World of Rap's Underground" , John Caramanica described SoundCloud rap as "a swelling subgenre that takes its name from its creators' preferred streaming service?-?which in the last year has become the most vital and disruptive new movement in hip-hop thanks to rebellious music, volcanic energy and occasional acts of malevolence". SoundCloud rappers like Lil Peep, XXXTentacion, Tekashi69, and Lil Pump have all been incredibly talented at using streaming platforms and social media to increase their popularity, often embracing the cartoonish images, memes, and over-exaggerations they become in a kind of self-aware, absurdist comedy. As evidence, look no further than Lil Peep's face tattoo of the word "crybaby", the self-fulfilling prophecy that led Tekashi69 to rise and fall like the classic gangster anti-hero he pretended to be, or Smokepurpp's remark that "When people laugh at us, we laugh with them; we know it's funny". [1]<br>
 <br>
 
 Social media and online streaming platforms have enabled these artists to distribute their "disruptive" music and viral memes as digital commodities produced through an increasingly abstract, distributed network of alienated labor. The nod to the computing "cloud" in SoundCloud's name is indicative of the way it enables mass reproduction and de-localization of digital music. When SoundCloud rap is appropriately viewed as a commodity produced through human labor, its distribution and reproduction throughout the cloud give rise to an interesting positive feedback loop.<br>
