@@ -22,7 +22,7 @@ Education
 Experience
 ----------
 
-**Data Analyst at Hyatt Hotels Corporation**
+**Data Analyst at Hyatt Hotels Corporation, November 2018 - Present**
 
 Automated mobile text data collection and cleaning (urllib, requests), as well as ad-hoc reporting with a Dash app 
 
@@ -31,11 +31,11 @@ Trained and deployed production quality machine learning models using scikit-lea
 * Room upgrade model utilized daily at 400 Hyatt properties (featured by [AWS](https://aws.amazon.com/travel-and-hospitality/personalization/)
 * Personalized add-on amenity recommendation model, used for targeted marketing and customer segmentation efforts
 
-**Undergraduate Math & Statistics Tutor at Chegg**
+**Undergraduate Math & Statistics Tutor at Chegg, June 2018 - December 2018**
 
-Created 50+ educational videos for undergraduate courses in Applied Statistics, Probability, Linear Algebra, Differential Equations, and Algorithms
+Created 50+ educational videos for courses in Applied Statistics, Probability, and Linear Algebra/Differential Equations.
 
-**Data Analyst Intern at Lumere**
+**Data Analyst Intern at Lumere, May 2017 - January 2018**
 
 Programmed a generalizable R script to synthesis and clean unstrunctured Electronic Health Record data
 
@@ -44,24 +44,13 @@ Implemented an improved, scalable data mining algorithm to find association patt
 Technical Experience
 --------------------
 
-Confoederatio Helvetica
-:   Dynamic [map][ref1] of public transportation in Switzerland using open Datasets
-    and Mapbox GL.
+Software/Programming : Python (numpy, pandas, sklearn, tensorflow), R (dplyr, tidyverse, ggplot2), SQL, C, MATLAB, git/version control
 
-    * Network modelling and spectral analysis based on publicly available train frequency data of the Swiss Federal Railways. Exporting of the original and derived networked features as GEOJSON.
-    * OSM data analysis on millions of buildings according to number of transportation POIs in a vicinity defined by euclidean assumptions. This part is direct implementation of work by Dr. Vahid Moosavi.
+Cloud Computing: AWS (redshift, S3, EC2, SageMaker, lambda)
 
-:   Basic knowledge of **Python**, **Ruby**, **HTML**, **CSS**, **C#**, **Javascript**
-
-[ref1]: https://ganagno.github.io/maps/che.html
-
-Extracurricular
+Interests and Hobbies
 ----------------------------------------
 
-* Human Languages:
-     * Greek (native speaker)
-     * German
-     * English
-
-* Tango dancing
-* Hatha Yoga
+* Exercise and Mindfulness Meditation
+* Making trap soundcloud mixes
+* Watching foreign teenage dramas
