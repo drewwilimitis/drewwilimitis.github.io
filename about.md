@@ -14,7 +14,7 @@ Hoping to contribute towards a greater mathematical understanding of complex soc
 ##### contact/social ✨
 
 - email: drewwilimitis@gmail.com
-- github: [github.com/drewwilimitis](https://medium.com/@drewwilimitis)
+- github: [github.com/drewwilimitis](https://github.com/drewwilimitis)
 - linkedin: [linkedin.com/in/drew-wilimitis/](https://www.linkedin.com/in/drew-wilimitis/)
 - medium blog: [medium.com/@drewwilimitis](https://medium.com/@drewwilimitis)
 
